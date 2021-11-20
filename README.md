@@ -3,7 +3,7 @@
 - 💻 Personal website: https://andr3wis2cool4school.github.io/personal-website/
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Andr3wis2Cool4School&hide=jupyter notebook)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Andr3wis2Cool4School&hide=python)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
